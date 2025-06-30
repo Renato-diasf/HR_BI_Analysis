@@ -1,26 +1,35 @@
-# 📊 Mini-Projeto 3 – Análise de Dados de RH com Power BI
+# HR Data Analysis with Power BI
 
-Este projeto foi desenvolvido como parte do curso de Power BI da Data Science Academy. O objetivo foi explorar e visualizar dados fictícios de Recursos Humanos para extrair insights relevantes sobre o perfil dos colaboradores e indicadores organizacionais.
+This project was developed as part of the Power BI course by Data Science Academy. The goal was to explore and visualize fictitious Human Resources data to extract relevant insights about employee profiles and organizational indicators.
 
-## 🎯 Objetivo
-Analisar dados demográficos e comportamentais de funcionários, incluindo gênero, salário, função, experiência, envolvimento no trabalho e disponibilidade para hora extra.
+## 🎯 Objective
+Analyze demographic and behavioral data of employees, including gender, salary, job role, experience, work engagement, and overtime availability.
 
-## 🛠️ Ferramentas e Técnicas
-- Power BI Desktop
-- Gráficos de pizza, colunas e indicadores visuais (cards)
-- Segmentações por idade e métricas chave de RH
-- Cálculo de KPIs como:
-  - Total de funcionários
-  - Experiência média (anos)
-  - Proporção por gênero
-  - Salário médio
-  - Envolvimento no trabalho (alto, médio, baixo)
-  - Distribuição por função
-  - Disponibilidade para hora extra
+## 🛠️ Tools and Techniques
+- Power BI Desktop  
+- Pie charts, column charts, and visual indicators (cards)  
+- Age segmentation and key HR metrics  
+- KPI calculations such as:
+  - Total number of employees
+  - Average experience (years)
+  - Gender distribution
+  - Average salary
+  - Work engagement (high, medium, low)
+  - Role distribution
+  - Overtime availability
 
-## 📈 Destaques
-- Interface visual clara e interativa
-- Uso de segmentação dinâmica por faixa etária
-- Indicadores estratégicos para decisões de gestão de pessoas
+## 📈 Highlights
+- Clear and interactive visual interface  
+- Dynamic segmentation by age group  
+- Strategic HR indicators to support management decisions  
 
-> Projeto acadêmico com foco em práticas de BI aplicadas à área de Recursos Humanos.
+> Academic project focused on applying BI techniques to Human Resources data.
+
+
+## Dashboard Preview
+
+![Power BI Dashboard]([https://github.com/Renato-diasf/BI-Finantial-Analysis/blob/main/Dashboard.png](https://github.com/Renato-diasf/HR_BI_Analysis/blob/main/MP3.png))
+
+> The `.pbix` file is available in this repository and can be opened using **Power BI Desktop** (latest version recommended).
+
+---
