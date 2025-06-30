@@ -28,7 +28,7 @@ Analyze demographic and behavioral data of employees, including gender, salary, 
 
 ## Dashboard Preview
 
-![Power BI Dashboard]([https://github.com/Renato-diasf/BI-Finantial-Analysis/blob/main/Dashboard.png](https://github.com/Renato-diasf/HR_BI_Analysis/blob/main/MP3.png))
+![Power BI Dashboard]([[https://github.com/Renato-diasf/BI-Finantial-Analysis/blob/main/Dashboard.png](https://github.com/Renato-diasf/HR_BI_Analysis/blob/main/MP3.png)](https://github.com/Renato-diasf/HR_BI_Analysis/blob/main/Dashboard_HR.png))
 
 > The `.pbix` file is available in this repository and can be opened using **Power BI Desktop** (latest version recommended).
 
